@@ -92,7 +92,7 @@ Now that you have all the necessary tools installed, you can run the application
 To start the application with Docker, simply run the following command:
 
 ```bash
-$ docker compose up
+$ docker compose up --build
 ```
 
 That's it! The application should be running on `http://localhost:3000`.
